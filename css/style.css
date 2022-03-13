@@ -14,9 +14,9 @@
   padding-top: 15pt;
 }
 
-img{
-  width:205px;
-  height:320px;
+img {
+  width:205px; 
+  height:320px; 
 }
 
 p {
@@ -24,9 +24,6 @@ p {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.2rem;
   padding-top: 12pt;
-}
-
-p {
   background-color: #e0ffff;
 }
 
@@ -40,4 +37,3 @@ h2 {
   padding: 40px;
   text-align: center;
 }
-
